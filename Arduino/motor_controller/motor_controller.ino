@@ -12,7 +12,7 @@ int MotorVal[MOTORNUM];
 int MotorMemory[MOTORNUM];
 const int BaseValue[MOTORNUM] = {1010, 1150};
 const int NormalValue[MOTORNUM] = {1100, 1300};
-const int GunShockValue[MOTORNUM] = {1400, 1000};
+const int GunShockValue[MOTORNUM] = {1370, 1000};
 const int SafeLimitVlaue[MOTORNUM] = {1500, 1500};
 
 bool PW_ON = false;
